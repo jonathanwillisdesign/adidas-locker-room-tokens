@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "primitives/spacing",
+    "primitives/color",
+    "typography",
+    "shadows",
+    "semantic/color/light"
+  ]
+}

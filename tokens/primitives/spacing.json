@@ -1,0 +1,58 @@
+{
+  "1000": {
+    "value": "100px",
+    "type": "dimension"
+  },
+  "1200": {
+    "value": "120px",
+    "type": "dimension"
+  },
+  "1500": {
+    "value": "150px",
+    "type": "dimension"
+  },
+  "0000": {
+    "value": "0px",
+    "type": "dimension"
+  },
+  "0025": {
+    "value": "2.5px",
+    "type": "dimension"
+  },
+  "0050": {
+    "value": "5px",
+    "type": "dimension"
+  },
+  "0100": {
+    "value": "10px",
+    "type": "dimension"
+  },
+  "0150": {
+    "value": "15px",
+    "type": "dimension"
+  },
+  "0200": {
+    "value": "20px",
+    "type": "dimension"
+  },
+  "0300": {
+    "value": "30px",
+    "type": "dimension"
+  },
+  "0400": {
+    "value": "40px",
+    "type": "dimension"
+  },
+  "0600": {
+    "value": "60px",
+    "type": "dimension"
+  },
+  "0800": {
+    "value": "80px",
+    "type": "dimension"
+  },
+  "maxwidth": {
+    "value": "1200px",
+    "type": "dimension"
+  }
+}
