@@ -4,6 +4,7 @@
     "primitives/color",
     "typography",
     "shadows",
-    "semantic/color/light"
+    "semantic/color/light",
+    "semantic/color/dark"
   ]
 }
