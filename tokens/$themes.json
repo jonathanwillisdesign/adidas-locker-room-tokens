@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "a344bb90b5b356f51b332c23b3da3bee6d391223",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/spacing": "source",
+      "primitives/color": "source",
+      "typography": "source",
+      "shadows": "source",
+      "semantic/color/light": "enabled"
+    },
+    "group": "color"
+  },
+  {
+    "id": "99d324d681860dec88fc92a1fb174f8644d88b80",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/spacing": "source",
+      "primitives/color": "source",
+      "typography": "source",
+      "shadows": "source",
+      "semantic/color/dark": "enabled"
+    },
+    "group": "color"
+  }
+]
