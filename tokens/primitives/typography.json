@@ -1,26 +1,4 @@
 {
-  "DropShadow-Medium": {
-    "value": {
-      "color": "#0000001a",
-      "type": "dropShadow",
-      "x": "0",
-      "y": "8",
-      "blur": "8",
-      "spread": "0"
-    },
-    "type": "boxShadow"
-  },
-  "InnerShadow-toggle": {
-    "value": {
-      "color": "#000000",
-      "type": "innerShadow",
-      "x": "0",
-      "y": "-2.5",
-      "blur": "0",
-      "spread": "0"
-    },
-    "type": "boxShadow"
-  },
   "fontFamilies": {
     "adihausdin": {
       "value": "AdihausDIN",
